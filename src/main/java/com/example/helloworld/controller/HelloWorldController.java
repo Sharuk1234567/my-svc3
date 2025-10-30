@@ -8,7 +8,7 @@ public class HelloWorldController {
 
     @GetMapping("/hello")
     public String sendGreetings() {
-         return "Hello, World! this is my third repo for testing Traffic manager - 30/10/2025 3:55 pm";
+         return "Hello, World! this is my third repo for testing Traffic manager - 30/10/2025 7:00 pm";
 
     }
 }
